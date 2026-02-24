@@ -1,4 +1,4 @@
-2026/02/24 07:36更新,#genre#
+2026/02/24 15:01更新,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 河南联通-组播1,#genre#
 河南卫视,http://125.44.254.209:4001/rtp/225.1.4.98:1127
